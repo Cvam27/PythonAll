@@ -1,4 +1,4 @@
 def test_py():
     a=20
-    b=20
-    assert a==b
+    b=209
+    assert a==b, "Failed OOPS"

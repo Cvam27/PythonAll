@@ -1,0 +1,52 @@
+# from random import random
+#
+# li1= []
+# li2= []
+# for i in range(1,100):
+#     li1.append(i)
+#     li2.append(i)
+#
+# median = len(li2)/2
+# print(li1,"\n",li2)
+# print(median)
+
+number = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30,
+          31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57,
+          58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84,
+          85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99]
+length = len(number)
+
+
+def findMedian(a, n):
+    a.sort()
+    if n % 2 != 0:
+        return a[int(n / 2)]
+    return (a[int((n-1) / 2)] + a[int(n / 2)]) / 2.0
+
+
+# def findMinimum(a):
+# minimum = a[0]
+# for i in range(len(a)):
+# if(a[i]<minimum):
+# minimum = a[i]
+# return minimum
+#
+# def findMaximum(a):
+# maximum = a[0]
+# for i in range(len(a)):
+# if(a[i]>maximum):
+# maximum = a[i]
+# return maximum
+#
+#
+#
+# def findMean(a,n):
+# mean = 0
+# for i in range(n):
+# mean = int(mean) + int(number[i])
+# return mean/n
+
+# print("Minimum :- ",findMinimum(number))
+# print("Maximum :- ",findMaximum(number))
+# print("Mean :- ",findMean(number,length))
+print("Median :- ", findMedian(number, length))

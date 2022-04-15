@@ -4,9 +4,6 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from webdriver_manager.chrome import ChromeDriverManager
-from webdriver_manager.firefox import GeckoDriverManager
-from webdriverdownloader import GeckoDriverDownloader
-from webdriver_manager.microsoft import EdgeChromiumDriverManager
 
 driver = webdriver.Chrome(ChromeDriverManager().install())
 driver.implicitly_wait(20)
