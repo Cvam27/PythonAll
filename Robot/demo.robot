@@ -21,6 +21,7 @@ Push button
 
 *** Test Cases ***
 Google Access
+    Open browser with URL
     Open browser with URL   ${URL}
     Set input on text box   //*[@id="gbqfq"]    Critical Software
     Push button             //*[@id="gbqfba"]
