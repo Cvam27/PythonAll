@@ -1,4 +1,3 @@
-from books_functions import *
 
 available = ["book1", "book2", "book3", "book4"]
 lent_books = []
@@ -6,23 +5,28 @@ lent_books = []
 
 class Library:
 
+    @staticmethod
     def availbooks(avail_books):
         return avail_books
 
-    def lend_book(self, avail_books, lend_book):
+    @staticmethod
+    def lend_book(avail_books, lend_book):
         remove_book = avail_books.remove(lend_book)
         lent_books.append(lend)
         return remove_book
 
-    def add_book(self, new_book):
+    @staticmethod
+    def add_book(new_book):
         new_book = available.append(new_book)
         # available.append(new_book)
         return new_book
 
-    def return_book(self, returned_book_name):
+    @staticmethod
+    def return_book(returned_book_name):
         return available.append(returned_book_name)
 
-    def issued_book(self):
+    @staticmethod
+    def issued_book():
         return available.remove(lend)
 
 
@@ -37,6 +41,7 @@ while True:
             lend = input("which book to lend?")
             bookstore.lend_book(available, lend_book=lend)
             print("you lent book :", lent_books)
+
         except:
             print("Invalid book name")
     elif ask == "R":

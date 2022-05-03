@@ -7,29 +7,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bea0fefc-5785-4908-bafe-57c9fe41c870" name="Changes" comment="new programs">
-      <change afterPath="$PROJECT_DIR$/MusikaarPractice/All/10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MusikaarPractice/All/11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MusikaarPractice/All/9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MusikaarPractice/Conditional Statement/ex4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MusikaarPractice/Exception handling/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MusikaarPractice/Input-Output/ex2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MusikaarPractice/Input-Output/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MusikaarPractice/Loop/ex1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MusikaarPractice/OOPS/books_functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MusikaarPractice/OOPS/ex1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MusikaarPractice/OOPS/ex2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MusikaarPractice/OOPS/ex3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MusikaarPractice/OOPS/ex4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MusikaarPractice/OOPS/temp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyTestPractice/DemoQA/demo_test.py" afterDir="false" />
+    <list default="true" id="bea0fefc-5785-4908-bafe-57c9fe41c870" name="Changes" comment="Library">
+      <change afterPath="$PROJECT_DIR$/Dalle/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MusikaarPractice/Advanced/ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MusikaarPractice/Advanced/ex2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MusikaarPractice/Advanced/ex3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MusikaarPractice/All/12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MusikaarPractice/All/13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MusikaarPractice/All/13A.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MusikaarPractice/All/emp_data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MusikaarPractice/DateTime/demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MusikaarPractice/RegEX/ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MusikaarPractice/RegEX/scratch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MusikaarPractice/RegEX/test_data.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MusikaarPractice/Control statement/ex1.py" beforeDir="false" afterPath="$PROJECT_DIR$/MusikaarPractice/Control statement/ex1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MusikaarPractice/Dictionary/ex1.py" beforeDir="false" afterPath="$PROJECT_DIR$/MusikaarPractice/Dictionary/ex1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MusikaarPractice/Input-Output/ex1.py" beforeDir="false" afterPath="$PROJECT_DIR$/MusikaarPractice/Input-Output/ex1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MusikaarPractice/Input-Output/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MusikaarPractice/Input-Output/test.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MusikaarPractice/Input-Output/test2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MusikaarPractice/Input-Output/test2.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Robot/demo.robot" beforeDir="false" afterPath="$PROJECT_DIR$/Robot/demo.robot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MusikaarPractice/All/11.py" beforeDir="false" afterPath="$PROJECT_DIR$/MusikaarPractice/All/11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MusikaarPractice/All/8.py" beforeDir="false" afterPath="$PROJECT_DIR$/MusikaarPractice/All/8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MusikaarPractice/All/9.py" beforeDir="false" afterPath="$PROJECT_DIR$/MusikaarPractice/All/9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MusikaarPractice/Exception handling/ex1.py" beforeDir="false" afterPath="$PROJECT_DIR$/MusikaarPractice/Exception handling/ex1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MusikaarPractice/OOPS/ex4.py" beforeDir="false" afterPath="$PROJECT_DIR$/MusikaarPractice/OOPS/ex4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MusikaarPractice/String Manipulation/ex1.py" beforeDir="false" afterPath="$PROJECT_DIR$/MusikaarPractice/String Manipulation/ex1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +57,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectId" id="1zLeQk8SRHPSm0Ah1J3g0fa6tXd" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -68,11 +68,11 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/shivam_acharya/PycharmProjects/SelPython&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "last_opened_file_path": "C:/Users/shivam_acharya/Downloads/Hospital_Data_Working.py"
   }
-}</component>
+}]]></component>
   <component name="ReaderModeSettings">
     <option name="enabled" value="false" />
   </component>
@@ -85,8 +85,8 @@
       <recent name="C:\Users\shivam_acharya\PycharmProjects\SelPython\PythonCore\PyNativeWWW\Mix" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ex4">
-    <configuration name="9" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.13A">
+    <configuration name="12" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonAll" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -98,7 +98,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MusikaarPractice/All/9.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MusikaarPractice/All/12.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -107,7 +107,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex1 (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="13A" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonAll" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -115,11 +115,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MusikaarPractice/Input-Output" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MusikaarPractice/All" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MusikaarPractice/Input-Output/ex1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MusikaarPractice/All/13A.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -128,7 +128,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Hospital_Data_Working" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonAll" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -136,11 +136,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MusikaarPractice/OOPS" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Downloads" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MusikaarPractice/OOPS/ex4.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Downloads/Hospital_Data_Working.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -149,7 +149,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonAll" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -157,11 +157,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MusikaarPractice/Exception handling" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MusikaarPractice/DateTime" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MusikaarPractice/Exception handling/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MusikaarPractice/DateTime/demo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -170,7 +170,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonAll" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -178,11 +178,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MusikaarPractice/Input-Output" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MusikaarPractice/Advanced" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\shivam_acharya\PycharmProjects\SelPython\MusikaarPractice\Input-Output\test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MusikaarPractice/Advanced/ex1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -204,19 +204,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.9" />
-      <item itemvalue="Python.ex1 (3)" />
-      <item itemvalue="Python.test" />
-      <item itemvalue="Python.test (1)" />
-      <item itemvalue="Python.ex4" />
+      <item itemvalue="Python.12" />
+      <item itemvalue="Python.13A" />
+      <item itemvalue="Python.Hospital_Data_Working" />
+      <item itemvalue="Python.ex1" />
+      <item itemvalue="Python.demo" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ex4" />
-        <item itemvalue="Python.test (1)" />
-        <item itemvalue="Python.9" />
-        <item itemvalue="Python.ex1 (3)" />
-        <item itemvalue="Python.test" />
+        <item itemvalue="Python.13A" />
+        <item itemvalue="Python.Hospital_Data_Working" />
+        <item itemvalue="Python.ex1" />
+        <item itemvalue="Python.demo" />
+        <item itemvalue="Python.12" />
       </list>
     </recent_temporary>
   </component>
@@ -236,7 +236,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650002639809</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Library">
+      <created>1650969147105</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1650969147105</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -256,7 +263,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="new programs" />
-    <option name="LAST_COMMIT_MESSAGE" value="new programs" />
+    <MESSAGE value="Library" />
+    <option name="LAST_COMMIT_MESSAGE" value="Library" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -528,12 +536,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/MusikaarPractice/All/9.py</url>
-          <line>16</line>
-          <option name="timeStamp" value="280" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/MusikaarPractice/All/9.py</url>
-          <line>3</line>
+          <line>6</line>
           <option name="timeStamp" value="281" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
@@ -545,6 +548,41 @@
           <url>file://$PROJECT_DIR$/MusikaarPractice/Exception handling/test.py</url>
           <line>11</line>
           <option name="timeStamp" value="284" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/MusikaarPractice/Advanced/ex1.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="285" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/MusikaarPractice/RegEX/ex1.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="290" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/MusikaarPractice/Advanced/ex2.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="295" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/MusikaarPractice/Advanced/ex2.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="296" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/MusikaarPractice/Advanced/ex2.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="297" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/MusikaarPractice/String Manipulation/ex2.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="298" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/MusikaarPractice/All/13A.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="317" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
